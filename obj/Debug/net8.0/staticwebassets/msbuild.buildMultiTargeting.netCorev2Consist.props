@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\netCorev2Consist.props" />
+</Project>
